@@ -4,7 +4,7 @@
 //___________BEFORE_SOLVE_REFRESH___________//
 //_immediately invoked function expressions-[Functions]
 /*
- * An IIFE (Immediately Invoked Function Expression) is a JavaScript      function that runs as soon as it is defined.
+ * An IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined.
  */
 
 //_Resources
